@@ -47,3 +47,4 @@ const HeroComponent = ({img}) => {
 }
 
 export default HeroComponent
+

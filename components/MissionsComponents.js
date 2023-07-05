@@ -93,7 +93,7 @@ const RightContainer = styled.div`
 
 
 
-const CampusChiefComponent = ({post,name,photo,message}) => {
+const MissionsComponents = ({post,name,photo,message}) => {
     return (
         <Wrapper>
             <Heading>
@@ -114,4 +114,4 @@ const CampusChiefComponent = ({post,name,photo,message}) => {
     )
 }
 
-export default CampusChiefComponent
+export default MissionsComponents
